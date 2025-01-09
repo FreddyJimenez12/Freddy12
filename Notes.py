@@ -1,6 +1,5 @@
 # print("Hello world")
 #
-# Mr. Wiebe
 #
 #
 # a = 3
