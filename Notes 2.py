@@ -1,7 +1,7 @@
 # Dictionary = made up of key: value pair
 dictionary = {"name": 'bob', 'age': 1000, 'height': 6 * 12 + 6}
 
-# Accessing thing from a dictionary
+# Accessing things from a dictionary
 
 print(dictionary['name'])
 print(dictionary['age'])
